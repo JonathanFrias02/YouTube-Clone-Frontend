@@ -1,2 +1,2 @@
 # YouTube Clone Frontend
- ONLY front end of homepage
+ ONLY frontend of homepage
